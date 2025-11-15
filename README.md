@@ -9,7 +9,6 @@
 ## 📪 Let's Connect
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/hestiaahmadi)
 [![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram)](https://instagram.com/hestia05.coder)
-[![X](https://img.shields.io/badge/X-red?logo=x)](https://x.com/Hestia05coder)
 [![Email](https://img.shields.io/badge/Email-red?logo=email)](mailto:ahmadi.dev05@gmail.com)
 
 
