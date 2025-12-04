@@ -1,7 +1,7 @@
 ## Hi there 👋🏻, I'm Zahra 👧🏻
 
 ## 🧠 Skills
-[![My Skills](https://skillicons.dev/icons?i=html,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=HTML,CSS,JavaScript,github)](https://skillicons.dev)
 
 ## 📊 Github Stats
 ![Hestia's Github stats](https://github-readme-stats.vercel.app/api?username=hestiaahmadi&show_icons=true&theme=midnight-purple)
