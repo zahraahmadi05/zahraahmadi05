@@ -16,5 +16,6 @@
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zahraahmadi05&layout=compact&theme=tokyonight)
 
 # 📈 Activity 
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zahraahmadi05&theme=github-dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zahraahmadi05&theme=onedark)]()
