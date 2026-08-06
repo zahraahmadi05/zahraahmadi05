@@ -3,7 +3,7 @@
 ## 💻 Front-End Developer in progress
 ## 🌱 Currently learning JavaScript & DSA.
 
-# 🛠 Skills
+🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode,figma)](https://skillicons.dev)
 
 # 🚀 Featured Projects
