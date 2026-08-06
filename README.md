@@ -11,3 +11,5 @@
 # 📊 Status
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zahraahmadi05&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahraahmadi05&layout=compact&theme=tokyonight)
