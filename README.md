@@ -18,4 +18,4 @@
 # 📈 Activity 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zahraahmadi05&theme=github-dark)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=zahraahmadi05&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zahraahmadi05&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
