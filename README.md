@@ -6,4 +6,4 @@
 
 # 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode,figma)](https://skillicons.dev)
