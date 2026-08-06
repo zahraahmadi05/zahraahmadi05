@@ -21,7 +21,3 @@
 
 # 1️⃣ Top Language
 ## ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zahraahmadi05&layout=compact&theme=tokyonight)
-
-# 🌐 Connect with me
-## ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)
-## ![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)
