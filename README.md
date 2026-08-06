@@ -6,7 +6,7 @@
 
 # 🛠 Skills
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
 ![Html](https://img.shields.io/badge/Html-red?style=for-the-badge&logo=html)
-![Css](https://img.shield.io/badge/Css-blue?style=for-the-badge&logo=css)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
