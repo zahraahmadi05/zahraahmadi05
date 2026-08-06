@@ -5,7 +5,6 @@
 
 # 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode,figma)](https://skillicons.dev)
-# 
 
 # 🚀 Featured Projects
 [![LinguBoost](https://img.shields.io/badge/LinguBoost-Project-blue)](https://github.com/zahraahmadi05/LinguBoost-2026)
