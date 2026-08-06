@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode,figma)](https://skillicons.dev)
 
 # 🚀 Featured Projects
-![LinguBoost](imgs/logo.png)
+[![LinguBoost](https://img.shields.io/badge/LinguBoost-Project-blue)](https://github.com/zahraahmadi05/LinguBoost-2026)
 
 # 📈 Activity 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zahraahmadi05&theme=github-dark)
