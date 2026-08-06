@@ -12,3 +12,4 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode)](https://skillicons.dev)
