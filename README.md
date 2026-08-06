@@ -8,4 +8,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode,figma)](https://skillicons.dev)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahraahmadi05&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zahraahmadi05&show_icons=true&theme=tokyonight)
