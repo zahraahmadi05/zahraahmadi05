@@ -5,11 +5,9 @@
 ## ⚡ Fun fact: I'm so strong.
 
 # 🛠 Skills
-
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode,figma)](https://skillicons.dev)
 
-# 📊 Status
-
+# 📊 Stats
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zahraahmadi05&show_icons=true&theme=tokyonight)
 
 # 1️⃣ Top Language
@@ -18,4 +16,5 @@
 # 📈 Activity 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zahraahmadi05&theme=github-dark)
 
+# 🔥 Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=zahraahmadi05&theme=tokyonight)
