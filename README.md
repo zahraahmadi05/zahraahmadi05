@@ -14,3 +14,7 @@
 
 # 1️⃣ Top Language
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zahraahmadi05&layout=compact&theme=tokyonight)
+
+# 📈 Activity 
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)
