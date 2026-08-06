@@ -21,4 +21,4 @@
 
 # 🌐 Connect with me
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)
-![Instagram](https://img.shields.io/badge/Insta-red?style=for-the-badge&logo=instagram)
+![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)
