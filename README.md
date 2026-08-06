@@ -1,8 +1,8 @@
 # Hi there 👋
 # I'm Zahra 👧🏻
 
-## - 🌱 I’m currently learning DSA.
-## - ⚡ Fun fact: I'm so strong.
+## 🌱 I’m currently learning DSA.
+## ⚡ Fun fact: I'm so strong.
 
 # 🛠 Skills
 
