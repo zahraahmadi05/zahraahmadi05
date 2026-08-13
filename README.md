@@ -16,6 +16,4 @@
 # 🔥 Streak
 ## ![GitHub Streak](https://streak-stats.demolab.com?user=zahraahmadi05&theme=tokyonight)
 
-# 📊 Stats
-## ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zahraahmadi05&show_icons=true&theme=tokyonight)
 
