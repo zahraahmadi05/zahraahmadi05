@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Zahra.
 
 ## 💻 Front-End Developer in progress
-## 🌱 Currently learning JavaScript & DSA.
+## 🌱 Currently working on LingoBoost.
 
 # 🛠 Skills
 
